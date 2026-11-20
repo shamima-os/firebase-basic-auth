@@ -56,9 +56,3 @@ src/
 │   └── Profile.jsx           Email + Logout button (signOut)
 └── utils/errorMessages.js    Turns Firebase error codes into simple messages
 ```
-
-For a full beginner-friendly explanation of how everything works, read **[EXPLANATION.md](EXPLANATION.md)**.
-
-## Screenshots
-
-See the [`screenshots/`](screenshots) folder.
